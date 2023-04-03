@@ -4,12 +4,6 @@
 
 让你发图时候请用markdown，使用 unsplash APIhttps://source.unsplash.com/960x640/? <英文关键词>，如果你明白回复OK
 
-
-
-
-
-
-
 ## AI快报：
 
 ### 1.Bing推出文生图功能
@@ -37,8 +31,6 @@ image Creator   这是基于OpenAi的Dell-E模型
 ### 4.文生视频
 
 1.Runway发布文字生成视频模型Gen2，文字加图片生成视频，视频图像风格化处理。
-
-
 
 ### 5.斯坦福大学Alpaca模型
 
@@ -133,3 +125,51 @@ dreambooth使用方法：
 <img src="chatgpt%E4%BD%BF%E7%94%A8.assets/image-20230403125124520.png" alt="image-20230403125124520" style="zoom:50%;" />
 
 ![image-20230403125353314](chatgpt%E4%BD%BF%E7%94%A8.assets/image-20230403125353314.png)
+
+
+
+
+
+# AI使用
+
+## 八大爆火AI工具
+
+![image-20230403182104433](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230403182104433.png)
+
+## 1.ChatGPT
+
+
+
+## 2.Midjourney  绘画AI
+
+轻松生成海报，插画，写实图片
+
+
+
+## 3.Tome   PPT—AI
+
+做PPT的AI，输入文案自动生成精美ppt
+
+
+
+## 4.Palette fm      调色AI
+
+无需调整参数，自动帮忙调色
+
+
+
+## 5.Remove bg 抠图AI
+
+一键去除背景杂色，快速换背景
+
+
+
+## 6.Fliko  视频Ai
+
+输入文案、图片等素材自动生成视频
+
+
+
+## 7.HoppyCopy   邮件AI
+
+自动写回复邮件
