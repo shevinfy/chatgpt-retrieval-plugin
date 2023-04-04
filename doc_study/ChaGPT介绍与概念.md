@@ -4,6 +4,8 @@
 
 OpenAI API 几乎可以应用于任何涉及理解或生成自然语言、代码或图像的任务。我们提供一系列具有不同功率级别的[模型](https://platform.openai.com/docs/models)，适用于不同的任务，并且能够[微调](https://platform.openai.com/docs/guides/fine-tuning)您自己的自定义模型。这些模型可用于从内容生成到语义搜索和分类的所有领域。
 
+
+
 ## Chatgpt4介绍：
 
 ### 优势：
@@ -17,6 +19,18 @@ GPT-4 可以接受图像作为输入并生成说明、分类和分析。
 3.更长的上下文：
 
 GPT-4 能够处理超过 25,000 个单词的文本，允许使用长格式内容创建、扩展对话以及文档搜索和分析等用例。
+
+
+
+## opanai CEO 谈GPT-4、ChatGPT和AI未来：
+
+GPT-4 是基于LLM大型训练模型，文本
+
+RLHF是获取一些人类反馈的方式，就简单的就是询问用户哪个答案更好。
+
+
+
+
 
 # 安装使用：
 
@@ -47,6 +61,12 @@ yarn start
 5、访问Chatbot Platform：
 
 打开浏览器，访问http://localhost:3000，就可以看到官方版的Chatbot Platform网站了。
+
+
+
+
+
+
 
 
 
