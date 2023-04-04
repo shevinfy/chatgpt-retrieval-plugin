@@ -144,6 +144,111 @@ dreambooth使用方法：
 
 轻松生成海报，插画，写实图片
 
+### 一、使用教程：
+
+1.梯子
+
+2、登陆midjourney网站：[点击此处访问Midjourney](https://link.zhihu.com/?target=https%3A//www.midjourney.com/home/)
+
+然后点击“join the beta”。
+
+3、按照指引，一步一步傻瓜式的注册完毕。
+
+4、邮箱与手机号可以是国内的
+
+
+
+打开软件后，按照提示添加一个服务器，进入midjourney社区
+
+![image-20230403201918164](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230403201918164.png)
+
+
+
+在这些房间里，就可以自由的创作了。(创作最好使用英文)
+
+### **二、Midjourney新手入门描述词**
+
+新人有25次免费使用次数，不加入特定指令的情况下，是能生成四合一的图片的（算一次），单独挑出其中一张选择U或V（U是放大图片，U1\U2\U3\U4分别指的是放大四张图片中的某一张，V是采用图片的构图形式，重新生成）
+
+只需要在输入框输入“/imagine”就可以开启AI智能图片之旅。
+
+![image-20230403202144337](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230403202144337.png)
+
+
+
+免费用户使用V4版本
+
+目前最新版是V5
+
+### midJourney自己服务器使用
+
+可以进入自己的服务器，生成图片
+
+添加MidJourney bot机器人添加进我们的服务器。
+
+### 搜索
+
+可以在房间查看别人的图片寻找灵感
+
+右上角有搜索功能，可以去搜索自己喜欢的图片类型，比如cat dog（只能搜索当前房间的ai创作图片）
+
+### 使用命令
+
+##### 1.在聊天框输入/imagine （prompt）
+
+prompt就是指令的意思  在propmt后面跟上文（比如神奇的房子，他就会生成房子）
+
+![image-20230403212238493](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230403212238493.png)
+
+##### 2.V1,V2,V3,V4  生成类似图片
+
+生成后对应的图片
+
+比如你想生成跟第三张图片非常类似的。就点击V3  重新生成
+
+
+
+##### 3.U1,U2,U3,U4   细节处理某张
+
+生成后对应的图片
+
+比如你想生成第三张图片很细节的图片。就点击U3
+
+
+
+##### 4.make Variations   Light Upscale  Redo  Beta Upscale Redo
+
+- make Variations 继续生成4张类似的图片
+- Light Upscale  增加光线
+- Beta Upscale Redo  放大
+- web  连接
+
+
+
+##### 5.chatgpt+midjourney
+
+chatgpt生成描述文字喂给midjourney
+
+例子：画刘禹锡的故事陋室铭
+
+1.让GPT理解一下
+
+![image-20230403212450030](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230403212450030.png)
+
+2.跟GPT说想画下来，给出三个纬度去强化效果
+
+![image-20230403212730210](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230403212730210.png)
+
+3.用画面感的词汇，精简内容
+
+![image-20230403212715024](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230403212715024.png)
+
+
+
+## 国内免费AI生成画像：
+
+网站：https://6pen.art/
+
 
 
 ## 3.Tome   PPT—AI
