@@ -278,3 +278,35 @@ chatgpt生成描述文字喂给midjourney
 ## 7.HoppyCopy   邮件AI
 
 自动写回复邮件
+
+
+
+## 8.AdobeFirefly 
+
+Adobe发布
+
+功能：
+
+### 1.根据文字转换成想要的图片。
+
+通过简单的文字AI构图
+
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407131826346.png" alt="image-20230407131826346" style="zoom:33%;" />
+
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407131900158.png" alt="image-20230407131900158" style="zoom:33%;" />
+
+根据文字转换成想要的图片。
+
+2.圈出细节，瞄上去，AI自己处理细节
+
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407132217698.png" alt="image-20230407132217698" style="zoom:33%;" />
+
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407132440314.png" alt="image-20230407132440314" style="zoom:25%;" />
+
+
+
+### 3.修改细节
+
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407132513631.png" alt="image-20230407132513631" style="zoom:33%;" />
+
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407132544901.png" alt="image-20230407132544901" style="zoom:33%;" />
