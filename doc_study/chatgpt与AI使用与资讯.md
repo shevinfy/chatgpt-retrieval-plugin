@@ -1,10 +1,134 @@
+# ChatGPT网上资料：
+
+## chatGPT3、GPT3、GPT5
+
+官方说ChatGPT5将会推出视频功能。
+
+![image-20230404123820314](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230404123820314.png)
+
+
+
+以后是触摸，在以后会应用在机器人身上。
+
+现在OpneAi公司就相当于在创建机器人的细胞。
+
+
+
+### 现有功能：
+
+#### 各种插件：
+
+算法，数据分析，嵌入应用，最新法律，政策，新闻。
+
+
+
+#### 分析图片：
+
+<img src="chatgpt%E7%BD%91%E4%B8%8A%E8%B5%84%E6%96%99.assets/image-20230404124657640.png" alt="image-20230404124657640" style="zoom:33%;" />
+
+
+
+## chatGPT目前通过的考试
+
+![image-20230404124243824](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230404124243824.png)
+
+if ChatGPT5出现，这意味着，你可能只需要下载某些软件，就可以获得世界上最好的法律援助 or  画师 or 数据分析师 etc.
+
+
+
+## chatGPT5预测功能
+
+### 1.视频功能
+
+有了视频功能，可能只需要录制一段视频就可以要求GBT按照文字和视频，分析内容或者生成新的视频。
+
+可以做电影
+
+
+
+
+
+### 2.处理音频
+
+
+
+
+
+### 3.预测未来，成为全球问题的真实世界情况的试验场
+
+ 
+
+
+
+### 4.智能机器人     OPENAI AGI
+
+![image-20230404124849995](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230404124849995.png)
+
+目前谷歌机器人palm e robot 与之交互的参数设置为5400 billion parameter model。还有对抗性干扰。
+
+siqi chen发推文说OPENAI有望在12月份实现AGI
+
+<img src="chatgpt%E7%BD%91%E4%B8%8A%E8%B5%84%E6%96%99.assets/image-20230404125244087.png" alt="image-20230404125244087" style="zoom:33%;" />
+
+<img src="chatgpt%E7%BD%91%E4%B8%8A%E8%B5%84%E6%96%99.assets/image-20230404125332293.png" alt="image-20230404125332293" style="zoom:33%;" />
+
+chatgpt4的出现已经被认为是AGI出现的重要信息
+
+![image-20230404125441431](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230404125441431.png)
+
+能够理解或学习任何人可以高度准确地完成任何人类任务。人工智能或计算机程序，他们会体验某种感知或意识。
+
+<img src="chatgpt%E7%BD%91%E4%B8%8A%E8%B5%84%E6%96%99.assets/image-20230404125641159.png" alt="image-20230404125641159" style="zoom: 33%;" />
+
+chatgpt5在AGI方面：感官，知觉和颜色识别创造力方面表现强
+
+<img src="chatgpt%E7%BD%91%E4%B8%8A%E8%B5%84%E6%96%99.assets/image-20230404131457706.png" alt="image-20230404131457706" style="zoom:33%;" />
+
+OPENAI 投资了23.5million给1X这家robot公司，开发智能robot
+
+大规模的智能机器人。
+
+<img src="chatgpt%E7%BD%91%E4%B8%8A%E8%B5%84%E6%96%99.assets/image-20230404131627101.png" alt="image-20230404131627101" style="zoom:33%;" />
+
+
+
+### 5.智能诊断：
+
+#### 分析诊断并治疗：
+
+通过数据（如患者记录）来彻底改变诊断和资料，或成像扫描来定制治疗计划
+
+
+
+#### 健康应用程序：
+
+<img src="chatgpt%E7%BD%91%E4%B8%8A%E8%B5%84%E6%96%99.assets/image-20230404132048492.png" alt="image-20230404132048492" style="zoom:50%;" />
+
+为患者提供他们真正需要的东西。
+
+也许以后我们的手机上会有一个小程序，你甚至不需要再去看文档，直接问这个健康应用程序，你究竟在哪里出现了什么问题。例子:
+
+![image-20230404132333209](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230404132333209.png)
+
+用户治疗方式都是将自己的情况反馈给CHATGPT，CHATGPT将你可能存在的问题反馈给你。
+
+
+
+
+
+### 6.虚拟助手
+
+GPT在许多领域通过智能
+
+可以访问家用电器，电话，机器人。
+
 ## ChatGPT发送图片
 
 ![image-20230403120012354](chatgpt%E4%BD%BF%E7%94%A8.assets/image-20230403120012354.png)
 
 让你发图时候请用markdown，使用 unsplash APIhttps://source.unsplash.com/960x640/? <英文关键词>，如果你明白回复OK
 
-## AI快报：
+# AI快报：
 
 ### 1.Bing推出文生图功能
 
@@ -107,6 +231,24 @@ dreambooth使用方法：
 训练结束后，先输入text看看模型有没有学到。
 
 然后就是按故事生成各种各样的配图了。
+
+### ChatGPT+StableDiffusion
+
+chatgpt辅助生成StableDiffusion关键词prompt
+
+![image-20230416101141325](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230416101141325.png)
+
+将生成的promot放在stableDiffusion
+
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230416101514859.png" alt="image-20230416101514859" style="zoom:25%;" />
+
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230416101554168.png" alt="image-20230416101554168" style="zoom: 25%;" />
+
+觉得不错的话，可以选择高清修复：
+
+![image-20230416101720259](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230416101720259.png)
+
+
 
 
 
@@ -310,3 +452,31 @@ Adobe发布
 <img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407132513631.png" alt="image-20230407132513631" style="zoom:33%;" />
 
 <img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407132544901.png" alt="image-20230407132544901" style="zoom:33%;" />
+
+
+
+
+
+## 9.clipdrop 真实物品手机拍照自动抠图到电脑
+
+用手机拍真实物品，再对准屏幕就可以放入电脑
+
+![image-20230416102312985](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230416102312985.png)
+
+
+
+## 10.NVIDIA broadcast  专注屏幕
+
+![image-20230416102754463](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230416102754463.png)
+
+NVIDIA broadcast推出的EyeContact功能
+
+ai生成眼睛专注屏幕。
+
+
+
+11 metahuman aninmator
+
+对手机的前置摄像头剪一段两分钟的视频。
+
+Ai就可以高度模拟面部表情。思想快速复刻，包括嘴唇眼神面部肌肉光影等

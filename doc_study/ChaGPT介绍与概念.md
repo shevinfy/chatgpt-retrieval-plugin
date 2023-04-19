@@ -86,20 +86,6 @@ yarn start
 
 https://github.com/openai/openai-cookbook/tree/main/apps/web-crawl-q-and-a
 
-##  3.GPT-3 相关的 GitHub 仓库
-
-提供了与 GPT-3 相关的代码库、API 封装库、工具和示例应用程序。这些仓库中的代码可用于构建自己的应用程序，以利用 GPT-3 的能力。
-
-| 仓库名称                                                     |      |      | 描述和作用                                                   |
-| ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
-| [openai/api](https://github.com/openai/api)                  |      |      | OpenAI 官方 GPT-3 API 封装库，可以用于 Python 和其他编程语言。它使得与 OpenAI API 进行交互变得简单，并提供了一些实用功能来管理 API 密钥和访问令牌。 |
-| [openai/gpt-3-examples](https://github.com/openai/gpt-3-examples) |      |      | OpenAI 官方提供的 GPT-3 示例应用程序集合，演示了如何使用 OpenAI API 实现各种应用场景，例如生成文本、问答系统、语言翻译等。 |
-| [huggingface/transformers](https://github.com/huggingface/transformers) |      |      | Hugging Face 团队提供的一个用于自然语言处理的 Python 库，包括 GPT-3 和其他许多 NLP 模型的封装。它提供了许多实用功能来处理文本数据、训练和使用模型等。 |
-| [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo)  |      |      | EleutherAI 团队提供的一个与 GPT-3 相似的模型，使用较少的资源和更加透明的训练方法进行训练。该模型可用于生成文本、问答系统等任务。 |
-| [gpt3api/gpt3api](https://github.com/gpt3api/gpt3api)        |      |      | 一个 Node.js 库，封装了 OpenAI API 和 GPT-3 的其他功能。它提供了一组方便的函数来调用 API、处理响应、管理 API 密钥等。 |
-| [minimaxir/gpt-2-simple](https://github.com/minimaxir/gpt-2-simple) |      |      | 一个 Python 库，封装了 GPT-2 的能力。它提供了一组方便的函数来加载 GPT-2 模型、生成文本、微调模型等。 |
-| [nshepperd/gpt-2](https://github.com/nshepperd/gpt-2)        |      |      | 一个基于 TensorFlow 的 Python 库，包含了 GPT-2               |
-
 
 
 
