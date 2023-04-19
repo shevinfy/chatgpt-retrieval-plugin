@@ -128,6 +128,8 @@ GPT在许多领域通过智能
 
 让你发图时候请用markdown，使用 unsplash APIhttps://source.unsplash.com/960x640/? <英文关键词>，如果你明白回复OK
 
+
+
 # AI快报：
 
 ### 1.Bing推出文生图功能
@@ -274,19 +276,61 @@ chatgpt辅助生成StableDiffusion关键词prompt
 
 # AI使用
 
-## 八大爆火AI工具
+## 爆火AI工具
 
 ![image-20230403182104433](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230403182104433.png)
 
-## 1.ChatGPT
+## 做图AI
+
+### clipdrop 真实物品手机拍照自动抠图到电脑
+
+用手机拍真实物品，再对准屏幕就可以放入电脑
+
+![image-20230416102312985](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230416102312985.png)
+
+### AdobeFirefly   文字转换成想要的图片
+
+Adobe发布
+
+功能：
+
+#### 1.根据文字转换成想要的图片。
+
+通过简单的文字AI构图
+
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407131826346.png" alt="image-20230407131826346" style="zoom:33%;" />
+
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407131900158.png" alt="image-20230407131900158" style="zoom:33%;" />
+
+根据文字转换成想要的图片。
+
+2.圈出细节，瞄上去，AI自己处理细节
+
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407132217698.png" alt="image-20230407132217698" style="zoom:33%;" />
+
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407132440314.png" alt="image-20230407132440314" style="zoom:25%;" />
 
 
 
-## 2.Midjourney  绘画AI
+#### 3.修改细节
+
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407132513631.png" alt="image-20230407132513631" style="zoom:33%;" />
+
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407132544901.png" alt="image-20230407132544901" style="zoom:33%;" />
+
+
+
+
+
+### Palette fm      调色AI
+
+无需调整参数，自动帮忙调色
+
+### Midjourney  AI生成图片
 
 轻松生成海报，插画，写实图片
 
-### 一、使用教程：
+####  一、使用教程：
 
 1.梯子
 
@@ -308,7 +352,7 @@ chatgpt辅助生成StableDiffusion关键词prompt
 
 在这些房间里，就可以自由的创作了。(创作最好使用英文)
 
-### **二、Midjourney新手入门描述词**
+#### **二、Midjourney新手入门描述词**
 
 新人有25次免费使用次数，不加入特定指令的情况下，是能生成四合一的图片的（算一次），单独挑出其中一张选择U或V（U是放大图片，U1\U2\U3\U4分别指的是放大四张图片中的某一张，V是采用图片的构图形式，重新生成）
 
@@ -322,19 +366,19 @@ chatgpt辅助生成StableDiffusion关键词prompt
 
 目前最新版是V5
 
-### midJourney自己服务器使用
+#### midJourney自己服务器使用
 
 可以进入自己的服务器，生成图片
 
 添加MidJourney bot机器人添加进我们的服务器。
 
-### 搜索
+#### 搜索
 
 可以在房间查看别人的图片寻找灵感
 
 右上角有搜索功能，可以去搜索自己喜欢的图片类型，比如cat dog（只能搜索当前房间的ai创作图片）
 
-### 使用命令
+#### 使用命令
 
 ##### 1.在聊天框输入/imagine （prompt）
 
@@ -387,85 +431,55 @@ chatgpt生成描述文字喂给midjourney
 
 
 
-## 国内免费AI生成画像：
+
+
+
+
+### Remove bg 抠图AI
+
+一键去除背景杂色，快速换背景
+
+### 国内免费AI生成画像：
 
 网站：https://6pen.art/
 
 
 
-## 3.Tome   PPT—AI
+## PPT AI
+
+### Tome   PPT—AI
 
 做PPT的AI，输入文案自动生成精美ppt
 
-
-
-## 4.Palette fm      调色AI
-
-无需调整参数，自动帮忙调色
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8%E4%B8%8E%E8%B5%84%E8%AE%AF.assets/image-20230419174308464.png" alt="image-20230419174308464" style="zoom:25%;" />
 
 
 
-## 5.Remove bg 抠图AI
+### mindshow 国内ppt模板+ChatGPT生成
 
-一键去除背景杂色，快速换背景
+https://www.mindshow.fun/
 
+先向chatgpt提问，让他放回一个三层的markdown代码文本，放进mindshow生成相对应模板
 
+<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8%E4%B8%8E%E8%B5%84%E8%AE%AF.assets/image-20230419173950575.png" alt="image-20230419173950575" style="zoom:25%;" />
 
-## 6.Fliko  视频Ai
+## 视频AI
+
+### Fliko  视频Ai
 
 输入文案、图片等素材自动生成视频
 
 
 
-## 7.HoppyCopy   邮件AI
+### metahuman aninmator
 
-自动写回复邮件
+对手机的前置摄像头剪一段两分钟的视频。
 
-
-
-## 8.AdobeFirefly 
-
-Adobe发布
-
-功能：
-
-### 1.根据文字转换成想要的图片。
-
-通过简单的文字AI构图
-
-<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407131826346.png" alt="image-20230407131826346" style="zoom:33%;" />
-
-<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407131900158.png" alt="image-20230407131900158" style="zoom:33%;" />
-
-根据文字转换成想要的图片。
-
-2.圈出细节，瞄上去，AI自己处理细节
-
-<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407132217698.png" alt="image-20230407132217698" style="zoom:33%;" />
-
-<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407132440314.png" alt="image-20230407132440314" style="zoom:25%;" />
+Ai就可以高度模拟面部表情。思想快速复刻，包括嘴唇眼神面部肌肉光影等
 
 
 
-### 3.修改细节
-
-<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407132513631.png" alt="image-20230407132513631" style="zoom:33%;" />
-
-<img src="chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230407132544901.png" alt="image-20230407132544901" style="zoom:33%;" />
-
-
-
-
-
-## 9.clipdrop 真实物品手机拍照自动抠图到电脑
-
-用手机拍真实物品，再对准屏幕就可以放入电脑
-
-![image-20230416102312985](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230416102312985.png)
-
-
-
-## 10.NVIDIA broadcast  专注屏幕
+### NVIDIA broadcast  视频专注屏幕
 
 ![image-20230416102754463](chatgpt%E4%B8%8EAI%E4%BD%BF%E7%94%A8.assets/image-20230416102754463.png)
 
@@ -474,9 +488,3 @@ NVIDIA broadcast推出的EyeContact功能
 ai生成眼睛专注屏幕。
 
 
-
-11 metahuman aninmator
-
-对手机的前置摄像头剪一段两分钟的视频。
-
-Ai就可以高度模拟面部表情。思想快速复刻，包括嘴唇眼神面部肌肉光影等
